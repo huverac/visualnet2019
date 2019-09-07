@@ -1,0 +1,11 @@
+D:\ELECTIVA PROFESIONAL III\ejercicio\bin\Debug\netcoreapp2.2\ejercicio.deps.json
+D:\ELECTIVA PROFESIONAL III\ejercicio\bin\Debug\netcoreapp2.2\ejercicio.runtimeconfig.json
+D:\ELECTIVA PROFESIONAL III\ejercicio\bin\Debug\netcoreapp2.2\ejercicio.runtimeconfig.dev.json
+D:\ELECTIVA PROFESIONAL III\ejercicio\bin\Debug\netcoreapp2.2\ejercicio.dll
+D:\ELECTIVA PROFESIONAL III\ejercicio\bin\Debug\netcoreapp2.2\ejercicio.pdb
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.csprojAssemblyReference.cache
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.csproj.CoreCompileInputs.cache
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.AssemblyInfoInputs.cache
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.AssemblyInfo.cs
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.dll
+D:\ELECTIVA PROFESIONAL III\ejercicio\obj\Debug\netcoreapp2.2\ejercicio.pdb
